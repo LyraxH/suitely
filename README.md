@@ -1,2 +1,2 @@
 # suitely
- app suite
+ android / linux app suite
